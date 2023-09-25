@@ -1,10 +1,3 @@
-/*
-  TODO:Thư viện cho Valve
-
-  Người viết: Nguyễn Trung Thảo
-
-*/
-
 
 #ifndef _Valve_H_
 #define _Valve_H_
